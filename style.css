@@ -49,7 +49,7 @@ h6 {
 .firework,
 .firework::before,
 .firework::after {
-    --top: 1vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 10%;
@@ -79,7 +79,7 @@ h6 {
 .firework2,
 .firework2::before,
 .firework2::after {
-    --top: 6vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -109,7 +109,7 @@ h6 {
 .firework3,
 .firework3::before,
 .firework3::after {
-    --top: 11vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 11%;
@@ -139,7 +139,7 @@ h6 {
 .firework4,
 .firework4::before,
 .firework4::after {
-    --top: 16vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 16%;
@@ -169,7 +169,7 @@ h6 {
 .firework5,
 .firework5::before,
 .firework5::after {
-    --top: 21vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 21%;
@@ -199,7 +199,7 @@ h6 {
 .firework6,
 .firework6::before,
 .firework6::after {
-    --top: 16vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 16%;
@@ -229,7 +229,7 @@ h6 {
 .firework7,
 .firework7::before,
 .firework7::after {
-    --top: 11vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 11%;
@@ -259,7 +259,7 @@ h6 {
 .firework8,
 .firework8::before,
 .firework8::after {
-    --top: 6vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -289,7 +289,7 @@ h6 {
 .firework9,
 .firework9::before,
 .firework9::after {
-    --top: 1vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 1%;
@@ -319,7 +319,7 @@ h6 {
 .firework10,
 .firework10::before,
 .firework10::after {
-    --top: 6vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -379,7 +379,7 @@ h6 {
 .firework12,
 .firework12::before,
 .firework12::after {
-    --top: 11vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 11%;
@@ -409,7 +409,7 @@ h6 {
 .firework13,
 .firework13::before,
 .firework13::after {
-    --top: 16vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 16%;
@@ -439,7 +439,7 @@ h6 {
 .firework14,
 .firework14::before,
 .firework14::after {
-    --top: 21vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 24%;
@@ -469,7 +469,7 @@ h6 {
 .firework15,
 .firework15::before,
 .firework15::after {
-    --top: 16vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 16%;
@@ -499,7 +499,7 @@ h6 {
 .firework16,
 .firework16::before,
 .firework16::after {
-    --top: 11vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 11%;
@@ -529,7 +529,7 @@ h6 {
 .firework17,
 .firework17::before,
 .firework17::after {
-    --top: 6vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -559,7 +559,7 @@ h6 {
 .firework18,
 .firework18::before,
 .firework18::after {
-    --top: 1vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 1%;
@@ -589,7 +589,7 @@ h6 {
 .firework19,
 .firework19::before,
 .firework19::after {
-    --top: 6vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -619,7 +619,7 @@ h6 {
 .firework20,
 .firework20::before,
 .firework20::after {
-    --top: 11vh;
+    --top: 10vh;
     content: "";
     position: absolute;
     top: 11%;
