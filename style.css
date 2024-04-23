@@ -49,7 +49,7 @@ h6 {
 .firework,
 .firework::before,
 .firework::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 10%;
@@ -79,7 +79,7 @@ h6 {
 .firework2,
 .firework2::before,
 .firework2::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -109,7 +109,7 @@ h6 {
 .firework3,
 .firework3::before,
 .firework3::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 11%;
@@ -139,7 +139,7 @@ h6 {
 .firework4,
 .firework4::before,
 .firework4::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 16%;
@@ -169,7 +169,7 @@ h6 {
 .firework5,
 .firework5::before,
 .firework5::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 21%;
@@ -199,7 +199,7 @@ h6 {
 .firework6,
 .firework6::before,
 .firework6::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 16%;
@@ -229,7 +229,7 @@ h6 {
 .firework7,
 .firework7::before,
 .firework7::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 11%;
@@ -259,7 +259,7 @@ h6 {
 .firework8,
 .firework8::before,
 .firework8::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -289,7 +289,7 @@ h6 {
 .firework9,
 .firework9::before,
 .firework9::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 1%;
@@ -319,7 +319,7 @@ h6 {
 .firework10,
 .firework10::before,
 .firework10::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 6%;
@@ -379,7 +379,7 @@ h6 {
 .firework12,
 .firework12::before,
 .firework12::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 11%;
@@ -409,11 +409,11 @@ h6 {
 .firework13,
 .firework13::before,
 .firework13::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 16%;
-    left: 60%;
+    right: 40%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -439,11 +439,11 @@ h6 {
 .firework14,
 .firework14::before,
 .firework14::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 24%;
-    left: 65%;
+    right: 45%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -469,11 +469,11 @@ h6 {
 .firework15,
 .firework15::before,
 .firework15::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 16%;
-    left: 70%;
+    right: 30%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -499,11 +499,11 @@ h6 {
 .firework16,
 .firework16::before,
 .firework16::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 11%;
-    left: 75%;
+    right: 25%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -529,11 +529,11 @@ h6 {
 .firework17,
 .firework17::before,
 .firework17::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 6%;
-    left: 80%;
+    right: 49%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -559,11 +559,11 @@ h6 {
 .firework18,
 .firework18::before,
 .firework18::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 1%;
-    left: 50%;
+    right: 20%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -589,11 +589,11 @@ h6 {
 .firework19,
 .firework19::before,
 .firework19::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 6%;
-    left: 85%;
+    right: 15%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -619,11 +619,11 @@ h6 {
 .firework20,
 .firework20::before,
 .firework20::after {
-    --top: 10vh;
+    --top: 30vh;
     content: "";
     position: absolute;
     top: 11%;
-    left: 90%;
+    right: 10%;
     transform: translate(-50%, -50%);
     width: 0.5vmin;
     aspect-ratio: 1;
@@ -665,8 +665,7 @@ h6 {
 .firework17::before,
 .firework18::before,
 .firework19::before,
-.firework20::before
-{
+.firework20::before {
     transform: translate(-50%, -50%) rotate(25deg) !important;
 }
 
@@ -692,102 +691,6 @@ h6 {
 .firework20::after {
     transform: translate(-50%, -50%) rotate(-37deg) !important;
 }
-
-.firework2,
-.firework2::before,
-.firework2::after {
-    --top: 30vh;
-    content: "";
-    position: absolute;
-    top: 10%;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    width: 0.5vmin;
-    aspect-ratio: 1;
-    background:
-        /* random backgrounds */
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 50% 00%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 00% 50%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 50% 99%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 99% 50%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 80% 90%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 95% 90%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 10% 60%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 31% 80%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 80% 10%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 90% 23%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 45% 20%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 13% 24%;
-    background-size: 0.5vmin 0.5vmin;
-    background-repeat: no-repeat;
-    animation: firework 2s infinite;
-}
-
-
-
-
-.firework,
-.firework::before,
-.firework::after {
-    --top: 30vh;
-    content: "";
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    transform: translate(-50%, -50%);
-    width: 0.5vmin;
-    aspect-ratio: 1;
-    background:
-        /* random backgrounds */
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 50% 00%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 00% 50%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 50% 99%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 99% 50%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 80% 90%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 95% 90%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 10% 60%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 31% 80%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 80% 10%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 90% 23%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 45% 20%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 13% 24%;
-    background-size: 0.5vmin 0.5vmin;
-    background-repeat: no-repeat;
-    animation: firework 4s infinite;
-}
-
-
-.firework4,
-.firework4::before,
-.firework4::after {
-    --top: 30vh;
-    content: "";
-    position: absolute;
-    top: 20%;
-    left: 40%;
-    transform: translate(-50%, -50%);
-    width: 0.5vmin;
-    aspect-ratio: 1;
-    background:
-        /* random backgrounds */
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 50% 00%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 00% 50%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 50% 99%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 99% 50%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 80% 90%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 95% 90%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 10% 60%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 31% 80%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 80% 10%,
-        radial-gradient(circle, #fff 0.2vmin, #0000 0) 90% 23%,
-        radial-gradient(circle, #fff 0.3vmin, #0000 0) 45% 20%,
-        radial-gradient(circle, #fff 0.5vmin, #0000 0) 13% 24%;
-    background-size: 0.5vmin 0.5vmin;
-    background-repeat: no-repeat;
-    animation: firework 3s infinite;
-}
-
-
 
 
 .spotify {
