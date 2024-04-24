@@ -695,8 +695,8 @@ h6 {
 
 .spotify {
     position: absolute;
-    padding-top: 68vh;
-    filter: grayscale(80%)
+    padding-top: 85vh;
+    filter: grayscale(90%)
 }
 
 /*** <--- DEMO STYLES ---> ***/
@@ -707,9 +707,9 @@ h6 {
 #scene {
     position: relative;
     overflow: hidden;
-    width: 500px;
+    width: 600px;
     max-width: 100%;
-    min-height: 500px;
+    min-height: 600px;
     border-radius: 50%;
     background: #50009b;
 }
@@ -735,7 +735,7 @@ h6 {
 
 .text h1 {
     font-size: 3.5em;
-    font-weight: 700;
+    font-weight: 900;
     line-height: 40px;
     color: #EEEEFF;
     text-shadow: 0 0 1px #41277C, 0 0 15px rgba(238, 238, 255, 0.85);
@@ -1210,12 +1210,13 @@ h6 {
 }
 
 .tree::before {
+    top: -20px;
     border: 20px solid transparent;
     border-bottom: 30px solid #EEEEFF;
 }
 
 .tree::after {
-    top: -10px;
+    top: -34px;
     border: 20px solid transparent;
     border-bottom: 30px solid #EEEEFF;
 }
@@ -1225,8 +1226,8 @@ h6 {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    width: 400px;
-    height: 100px;
+    width: 500px;
+    height: 150px;
     padding-top: 50px;
     background: #2d1b55;
     border-radius: 0 0 5px 5px;
@@ -1246,10 +1247,10 @@ h6 {
 .platform .quote {
 
     font-family: "Codystar", cursive;
-    font-size: 20px;
+    font-size: 28px;
     text-align: center;
     line-height: 1.2;
-    color: #9FB798;
+    color: #e5efe2;
 }
 
 @-webkit-keyframes blow {
