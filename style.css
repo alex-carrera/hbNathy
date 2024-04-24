@@ -10,8 +10,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    padding: 3rem;
+    min-height: 110vh;
+    padding: 2rem;
     font-family: "Quicksand", sans-serif;
     font-size: 16px;
     color: #777;
@@ -695,13 +695,14 @@ h6 {
 
 .spotify {
     position: absolute;
-    padding-top: 85vh;
+    padding-top: 75vh;
     filter: grayscale(90%)
 }
 
 /*** <--- DEMO STYLES ---> ***/
 .wrapper {
     position: relative;
+    margin-top: -70px;
 }
 
 #scene {
